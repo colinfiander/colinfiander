@@ -8,8 +8,8 @@ I am a vb.net web developer with over 5 years experience, looking to get back in
 
 * 🌍  I'm based in London, Ontario, Canada
 * ✉️  You can contact me at [info@colinfiander.com](mailto:info@colinfiander.com)
-* 🧠  I'm learning CSS & JavaScript Fundamentals currently
-* 🤝  I'm open to collaborating on Beginner Projects
+* 🧠  I'm learning CSS & JavaScript fundamentals currently
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  Sarcastic humour is my superpower
 
 ### Skills
